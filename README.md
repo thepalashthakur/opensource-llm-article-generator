@@ -11,7 +11,7 @@ Follow these steps to set up and run the application on your local machine:
 First, clone this repository to your local machine.
 
 ```bash
-git clone (https://github.com/thepalashthakur/opensource-llm-article-generator.git)
+git clone https://github.com/thepalashthakur/opensource-llm-article-generator.git
 ```
 
 
