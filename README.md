@@ -11,11 +11,10 @@ Follow these steps to set up and run the application on your local machine:
 
 First, clone this repository to your local machine.
 
-```python
+```bash
 git clone (https://github.com/thepalashthakur/opensource-llm-article-generator.git)
 ```
 
-Replace `https://github.com/thepalashthakur/opensource-llm-article-generator.git` with the actual URL of this GitHub repository.
 
 ### 2. Download the Model
 
@@ -25,7 +24,7 @@ After cloning the repository, download the Llama 2 70B model from the link provi
 
 Navigate to the root directory of the cloned repository and run the following command to install the required dependencies:
 
-```python
+```bash
 pip install -r requirements.txt
 ```
 
@@ -35,7 +34,7 @@ Note: Make sure you have Python and pip installed on your system. If you're usin
 
 To start the application on your local host, execute the following command:
 
-```python
+```bash
 streamlit run app.py
 ```
 
