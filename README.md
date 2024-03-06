@@ -15,7 +15,7 @@ First, clone this repository to your local machine.
 git clone <repository-url>
 ```
 
-Replace `<repository-url>` with the actual URL of this GitHub repository.
+Replace `https://github.com/thepalashthakur/opensource-llm-article-generator.git` with the actual URL of this GitHub repository.
 
 ### 2. Download the Model
 
