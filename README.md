@@ -12,7 +12,7 @@ Follow these steps to set up and run the application on your local machine:
 First, clone this repository to your local machine.
 
 ```python
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/thepalashthakur/opensource-llm-article-generator.git)
 ```
 
 Replace `https://github.com/thepalashthakur/opensource-llm-article-generator.git` with the actual URL of this GitHub repository.
