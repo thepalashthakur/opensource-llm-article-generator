@@ -1,4 +1,3 @@
-```markdown
 # LLM Chatbot
 
 This repository contains a chatbot application using an open-source LLM (Large Language Model), specifically the [Llama 2 70B](https://huggingface.co/meta-llama/Llama-2-70b-chat) model hosted on Hugging Face.
