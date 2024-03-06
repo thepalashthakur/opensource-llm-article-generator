@@ -48,5 +48,3 @@ For more details on how to interact with the chatbot and customize its behavior,
 ---
 
 Thank you for trying out the LLM Chatbot. We hope you find it useful for your projects!
-
-```
