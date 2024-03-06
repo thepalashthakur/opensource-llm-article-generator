@@ -50,5 +50,3 @@ For more details on how to interact with the chatbot and customize its behavior,
 Thank you for trying out the LLM Chatbot. We hope you find it useful for your projects!
 
 ```
-
-This README provides a structured and clear set of instructions for setting up and running the chatbot application, including steps for cloning the repository, downloading the model, installing dependencies, and starting the application.
